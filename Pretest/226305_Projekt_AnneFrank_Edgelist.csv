@@ -8,8 +8,7 @@ af,pvp,4,2,1
 af,fp,1,2,3
 mf,of,3,1,1
 mf,ef,3,1,1
-mf,"hvp
-",0,2,1
+mf,hvp,0,2,1
 mf,avp,0,2,1
 mf,pvp,2,2,1
 mf,fp,2,2,1
