@@ -1,0 +1,44 @@
+---
+title: "Anne Frank Pretest"
+author: "Kai Roos"
+date: "3 1 2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r Pakete installieren}
+library(igraph) 
+library(igraphdata) 
+library(knitr) 
+library(rmarkdown) 
+
+```
+
+#Einlesen der Edge- und Nodelist aus dem Github Verzeichnis 
+```{r Edge- und Nodelist einfügen}
+edges <- read.csv("https://raw.githubusercontent.com/AnneFrank2020/Anne-Frank-Netzwerk-/master/Pretest/226305_Projekt_AnneFrank_Edgelist%20-%20el_af.csv", header=T, as.is=T)
+
+nodes <- read.csv("https://raw.githubusercontent.com/AnneFrank2020/Anne-Frank-Netzwerk-/master/Pretest/226305_Projekt_AnneFrank_Nodelist%20-%20nl_af.csv", header=T, as.is=T)
+```
+
+#Wandelt die Edgeliste als Matrix um 
+```{r Matrix erstellen}
+edgematrix <-as.matrix(edges)
+```
+
+#Erstellt ein Igraph-objekt aus der Fusion von Edge- und Nodelist
+```{r iGraph-Objekt erstellen}
+af <- graph_from_data_frame(d=edgematrix, vertices=nodes, directed=F)
+af
+#Visualisierung
+plot(af)
+```
+```{r Farben und Visualisierung}
+plot(af, 
+      edge.color="black")
+
+```
+
