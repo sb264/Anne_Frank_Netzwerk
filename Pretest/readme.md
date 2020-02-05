@@ -1,4 +1,4 @@
-##Anne Frank Netzwerk Analyse##
+## Anne Frank Netzwerk Analyse ##
 
 Im Modul 226305 Netzwerke und Beziehungsmanagement erheben wir im Wintersemester 19/20 und im Sommersemester 20 ein Netzwerk über die Beziehungen von Anne Frank. Diese Analyse werden wir mit Hilfe von R Studio realisieren. Sie basiert vor allem auf dem Tagebuch der Anne Frank, aber auch auf anderen seriösen Literaturquellen. 
 
