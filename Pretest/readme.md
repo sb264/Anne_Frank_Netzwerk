@@ -10,6 +10,6 @@ Teammitglieder:
 Julia Gehringer (jg128),
 Sandra Belscher (sb264),
 Luisa Scheurer (ls151),
-Celine Bischof (cb175),
+Celine Bischoff (cb175),
 Kai Roos (kr049),
 Theresa Stumpf (ts184)
