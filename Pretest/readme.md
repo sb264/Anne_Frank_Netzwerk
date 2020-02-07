@@ -6,7 +6,7 @@ Das Ziel unseres Projekts ist es, die Veränderung ihres Lebens und ihres sozial
 
 Neben verschiedenen Teilnetzwerken, die sich aus unserem Gesamtnetzwerk ergeben, möchten wir außerdem ein örtliches Netzwerk über die Deportationsorte der Hinterhausbewohner erstellen. 
 
-* Teammitglieder: * 
+### Teammitglieder:  
 
 Julia Gehringer (jg128),
 Sandra Belschner (sb264),
