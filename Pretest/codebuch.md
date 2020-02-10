@@ -12,7 +12,7 @@ Auf Grundlage des Anne Frank Tagebuchs, sowie weiterer Lektüre haben wir ein Ne
 Unser Gesammtnetzwerk ist ein ungerichtetes two-mode Netzwerk, das durch weitere, gewichtete Teilnetzwerke ergänzt wird. 
 
 
-# EDGE-Attribute 
+## EDGE-Attribute 
 
 ID  
 codiert von 1 bis XX, jede ID entspricht einer Person bzw. einem Gegenstand.
@@ -51,7 +51,7 @@ Einteilung der Zeitabschnitte in normalisierten Werten
 
 
 
-# NODE-Attribute  
+## NODE-Attribute  
   
 SEX  
 Bitte geben Sie ihr Geschlecht an:
