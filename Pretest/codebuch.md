@@ -42,7 +42,7 @@ Definiert die Häufigkeit von Konfliketen und potentiellen Konflikten.
 
 TIME DEFINITION
 Einteilung der Zeitabschnitte in normalisierten Werten
-1 = Frankfurt (Geburt Juni 1929- XX 1933) 
+1 = Frankfurt (Geburt Juni 1929 - Februar 1934) 
 2 = Amsterdam - Umzug ins Hinterhaus (XX 1934-1942 XX) 
 3 = Hinterhaus Teil 1 (1942 XX - 31. Dezember)
 4 = Hinterhaus Teil 2 (1943 Janaur - Dezember) 
@@ -54,20 +54,20 @@ Einteilung der Zeitabschnitte in normalisierten Werten
 ## NODE-Attribute  
   
 SEX  
-Bitte geben Sie ihr Geschlecht an:
-1 = weiblich;  
+Gibt das Geschlecht an
+1 = weiblich 
 2 = männlich
 3 = neutrum 
   
 
 RELIGION
-Definiert die Religion deR Akteure 
+Definiert die Religion der Akteure 
 1 = Jude
 2 = Christ
 3 = sonstiges 
 
 SURVIVAL
-Definiert, ob der Akteur den den 2. Weltkrieg überlebt hat
+Definiert, ob der Akteur den 2. Weltkrieg überlebt hat
 1 = nicht überlebt
 2 = überlebt
 
