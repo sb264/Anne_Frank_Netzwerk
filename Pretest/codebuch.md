@@ -17,7 +17,7 @@ Unser Gesammtnetzwerk ist ein ungerichtetes two-mode Netzwerk, das durch weitere
 ID  
 codiert von 1 bis XX, jede ID entspricht einer Person bzw. einem Gegenstand.
 
-### Werte, die nicht verfügbar sind, werden mit "NA"gekennzeichnet 
+#### Werte, die nicht verfügbar sind, werden mit "NA"gekennzeichnet 
 
 WEIGHT  
 Ausprägung der Kantenstärke (Beziehungsstärke), definiert nach vorgegeben Skalen:
