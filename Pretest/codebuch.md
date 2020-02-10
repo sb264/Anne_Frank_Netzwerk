@@ -65,15 +65,15 @@ Gibt das Geschlecht an
 3 = neutrum 
   
 
-####RELIGION
+#### RELIGION
 
 Definiert die Religion der Akteure 
 1 = Jude
 2 = Christ
 3 = sonstiges 
 
-#### 
-SURVIVAL
+#### SURVIVAL
+
 Definiert, ob der Akteur den 2. Weltkrieg überlebt hat
 1 = nicht überlebt
 2 = überlebt
