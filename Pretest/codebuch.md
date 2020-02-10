@@ -28,6 +28,7 @@ Ausprägung der Kantenstärke (Beziehungsstärke), definiert nach vorgegeben Ska
 5 = Sehr stark (Liebe) 
 
 RELATIONSHIP 
+
 Definiert die Art der Beziehung bei multiplexen Netzwerken mit verschiedenen Beziehungsarten. 
 1 = Familie
 2 = Kontakt
