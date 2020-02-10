@@ -4,7 +4,7 @@
 ## Inhalt
 - el.csv (Edgelist)
 - nl.csv (Nodelist)
-- codebuch.rmd (Codierung der Datensätze)
+- codebuch.md (Codierung der Datensätze)
 
 ## Ursprung und Datenerhebung
 Auf Grundlage des Anne Frank Tagebuchs, sowie weiterer Lektüre haben wir ein Netzwerk über Anne Franks Sozialbeziehungen erstellt. 
