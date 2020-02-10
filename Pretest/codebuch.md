@@ -19,7 +19,8 @@ codiert von 1 bis XX, jede ID entspricht einer Person bzw. einem Gegenstand.
 
 #### Werte, die nicht verfügbar sind, werden mit "NA"gekennzeichnet 
 
-WEIGHT  
+#### WEIGHT  
+
 Ausprägung der Kantenstärke (Beziehungsstärke), definiert nach vorgegeben Skalen:
 1 = Neutral 
 2 = Gering (negative Emotionen)
@@ -27,21 +28,23 @@ Ausprägung der Kantenstärke (Beziehungsstärke), definiert nach vorgegeben Ska
 4 = Stark (starke Zuneigung)
 5 = Sehr stark (Liebe) 
 
-RELATIONSHIP 
+#### RELATIONSHIP 
 
 Definiert die Art der Beziehung bei multiplexen Netzwerken mit verschiedenen Beziehungsarten. 
 1 = Familie
 2 = Kontakt
 3 = Freundschaft
 
-KONFLIKTPOTENZIAL
+#### KONFLIKTPOTENZIAL
+
 Definiert die Häufigkeit von Konfliketen und potentiellen Konflikten.
 1 = nie
 2 = sehr selten
 3 = ab und zu 
 4 = häufig 
 
-TIME DEFINITION
+#### TIME DEFINITION
+
 Einteilung der Zeitabschnitte in normalisierten Werten
 1 = Frankfurt (Geburt Juni 1929 - Februar 1934) 
 2 = Amsterdam - Umzug ins Hinterhaus (XX 1934-1942 XX) 
@@ -54,33 +57,38 @@ Einteilung der Zeitabschnitte in normalisierten Werten
 
 ## NODE-Attribute  
   
-SEX  
+#### SEX  
+
 Gibt das Geschlecht an
 1 = weiblich 
 2 = männlich
 3 = neutrum 
   
 
-RELIGION
+####RELIGION
+
 Definiert die Religion der Akteure 
 1 = Jude
 2 = Christ
 3 = sonstiges 
 
+#### 
 SURVIVAL
 Definiert, ob der Akteur den 2. Weltkrieg überlebt hat
 1 = nicht überlebt
 2 = überlebt
 
 
-TYPE OF DEATH
+#### TYPE OF DEATH
+
 Definiert die Todesursache.
 1 = Vergasung 
 2 = Krankheit 
 3 = Erschöpfung
 4 = Natürlicher Tod
 
-PLACE OF DEATH
+#### PLACE OF DEATH
+
 Definiert den Todesort
 1 = KZ Bergen-Belsen
 2 = Birsfelden
