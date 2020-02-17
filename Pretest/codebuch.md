@@ -22,6 +22,7 @@ codiert von 1 bis XX, jede ID entspricht einer Person bzw. einem Gegenstand.
 #### WEIGHT  
 
 Ausprägung der Kantenstärke (Beziehungsstärke), definiert nach vorgegeben Skalen:
+
 1 = Neutral 
 2 = Gering (negative Emotionen)
 3 = Mittel (Freundschaftliche Beziehung)
@@ -31,6 +32,7 @@ Ausprägung der Kantenstärke (Beziehungsstärke), definiert nach vorgegeben Ska
 #### RELATIONSHIP 
 
 Definiert die Art der Beziehung bei multiplexen Netzwerken mit verschiedenen Beziehungsarten. 
+
 1 = Familie
 2 = Kontakt
 3 = Freundschaft
@@ -38,6 +40,7 @@ Definiert die Art der Beziehung bei multiplexen Netzwerken mit verschiedenen Bez
 #### KONFLIKTPOTENZIAL
 
 Definiert die Häufigkeit von Konfliketen und potentiellen Konflikten.
+
 1 = nie
 2 = sehr selten
 3 = ab und zu 
@@ -46,6 +49,7 @@ Definiert die Häufigkeit von Konfliketen und potentiellen Konflikten.
 #### TIME DEFINITION
 
 Einteilung der Zeitabschnitte in normalisierten Werten
+
 1 = Frankfurt (Geburt Juni 1929 - Februar 1934) 
 2 = Amsterdam - Umzug ins Hinterhaus (XX 1934-1942 XX) 
 3 = Hinterhaus Teil 1 (1942 XX - 31. Dezember)
@@ -83,13 +87,13 @@ Definiert, ob der Akteur den 2. Weltkrieg überlebt hat
 
 Definiert die Todesursache.
 1 = Vergasung 
-2 = Krankheit 
-3 = Erschöpfung
-4 = Natürlicher Tod
+2 = Fahrlässige Tötung im KZ 
+3 = Natürlicher Tod
 
 #### PLACE OF DEATH
 
 Definiert den Todesort
+
 1 = KZ Bergen-Belsen
 2 = Birsfelden
 3 = KZ Auschwitz-Birkenau
