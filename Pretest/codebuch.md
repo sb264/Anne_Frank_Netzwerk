@@ -64,6 +64,7 @@ Einteilung der Zeitabschnitte in normalisierten Werten
 #### SEX  
 
 Gibt das Geschlecht an
+
 1 = männlich
 2 = weiblich
 3 = neutrum 
