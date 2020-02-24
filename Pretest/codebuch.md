@@ -56,7 +56,7 @@ Einteilung der Zeitabschnitte in normalisierten Werten
 4 = Hinterhaus Teil 2 (1943 Janaur - Dezember) 
 5 = Hinterhaus Teil 3 (1944 Janaur - XX Aufgeflogen) 
 6 = Nach dem Krieg (Januar 1946)   
-
+7 = vor Annes Geburt (1929 und früher)
 
 
 ## NODE-Attribute  
