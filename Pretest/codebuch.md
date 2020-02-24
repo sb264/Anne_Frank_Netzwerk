@@ -79,9 +79,11 @@ Definiert die Religion der Akteure
 
 #### SURVIVAL
 
-Definiert, ob der Akteur den 2. Weltkrieg überlebt hat
-1 = nicht überlebt
-2 = überlebt
+Todeszeitraum in Korrelation zu den Weltkriegen
+1 = vor dem Ersten Weltkrieg verstorben
+2 = aufgrund des Ersten Weltkriegs verstorben
+3 = vor dem Zweiten Weltkrieg verstorben 
+4 = unabhängig des Zweiten Weltkriegs nach 1945 verstorben
 
 
 #### TYPE OF DEATH
