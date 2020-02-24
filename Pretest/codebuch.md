@@ -80,6 +80,7 @@ Definiert die Religion der Akteure
 #### SURVIVAL
 
 Todeszeitraum in Korrelation zu den Weltkriegen
+
 1 = vor dem Ersten Weltkrieg verstorben
 2 = aufgrund des Ersten Weltkriegs verstorben
 3 = vor dem Zweiten Weltkrieg verstorben 
