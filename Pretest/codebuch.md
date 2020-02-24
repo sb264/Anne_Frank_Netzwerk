@@ -107,6 +107,7 @@ Definiert den Todesort
 6 = KZ Mauthausen
 7 = KZ Neuengamme
 8 = Anderer Todesort
+9 = Amsterdam
 
 #### TYPE
 
