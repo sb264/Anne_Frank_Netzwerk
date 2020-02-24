@@ -105,4 +105,9 @@ Definiert den Todesort
 8 = KZ Neuengamme
 9 = Anderer Todesort
 
-##
+#### TYPE
+
+Definiert den Typ des Knotens
+
+1 = Mensch
+2 = Gegenstand (Tagebuch)
