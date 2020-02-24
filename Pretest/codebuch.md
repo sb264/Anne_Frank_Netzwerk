@@ -82,7 +82,7 @@ Definiert die Religion der Akteure
 Todeszeitraum in Korrelation zu den Weltkriegen
 
 1 = vor dem Ersten Weltkrieg verstorben
-2 = aufgrund des Ersten Weltkriegs verstorben
+2 = während des Ersten Weltkriegs verstorben
 3 = vor dem Zweiten Weltkrieg verstorben 
 4 = unabhängig des Zweiten Weltkriegs nach 1945 verstorben
 
