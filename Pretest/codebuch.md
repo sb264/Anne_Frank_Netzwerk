@@ -84,7 +84,8 @@ Todeszeitraum in Korrelation zu den Weltkriegen
 1 = vor dem Ersten Weltkrieg verstorben
 2 = während des Ersten Weltkriegs verstorben
 3 = vor dem Zweiten Weltkrieg verstorben 
-4 = unabhängig des Zweiten Weltkriegs nach 1945 verstorben
+4 = während des Zweiten Weltkriegs verstorben
+5 = unabhängig des Zweiten Weltkriegs nach 1945 verstorben
 
 
 #### TYPE OF DEATH
@@ -101,12 +102,11 @@ Definiert den Todesort
 1 = KZ Bergen-Belsen
 2 = Birsfelden
 3 = KZ Auschwitz-Birkenau
-4 = KZ Bergen-Belsen
-5 = KZ Auschwitz-Birkenau
-6 = Transport nach Theresienstadt
-7 = KZ Mauthausen
-8 = KZ Neuengamme
-9 = Anderer Todesort
+4 = KZ Auschwitz-Birkenau
+5 = Transport nach Theresienstadt
+6 = KZ Mauthausen
+7 = KZ Neuengamme
+8 = Anderer Todesort
 
 #### TYPE
 
