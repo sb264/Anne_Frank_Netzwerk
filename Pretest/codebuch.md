@@ -94,6 +94,7 @@ Definiert die Todesursache.
 1 = Vergasung 
 2 = Fahrlässige Tötung im KZ 
 3 = Natürlicher Tod
+4 = überlebt
 
 #### PLACE OF DEATH
 
